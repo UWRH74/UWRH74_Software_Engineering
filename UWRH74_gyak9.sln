@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32802.462
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWRH74_gyak9", "UWRH74_gyak9\UWRH74_gyak9.csproj", "{1B64AB14-6878-42CD-8FC1-977B6FF43E29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UWRH74_gyak9", "UWRH74_gyak9\UWRH74_gyak9.csproj", "{1B64AB14-6878-42CD-8FC1-977B6FF43E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excel generalasa kodbol", "excel generalasa kodbol\excel generalasa kodbol.csproj", "{9F8CF44D-51AB-4E13-B24A-57EC8510E3DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1B64AB14-6878-42CD-8FC1-977B6FF43E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B64AB14-6878-42CD-8FC1-977B6FF43E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B64AB14-6878-42CD-8FC1-977B6FF43E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8CF44D-51AB-4E13-B24A-57EC8510E3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8CF44D-51AB-4E13-B24A-57EC8510E3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8CF44D-51AB-4E13-B24A-57EC8510E3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8CF44D-51AB-4E13-B24A-57EC8510E3DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
